@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Guna12
 {
-    public partial class Form1 : Form
+    public partial class LogInPage : Form
     {
-        public Form1()
+        public LogInPage()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace Guna12
 {
-    partial class Form1
+    partial class LogInPage
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LogInPage));
             this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2ControlBox1 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
